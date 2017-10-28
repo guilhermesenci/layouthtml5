@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header {
+	height: 200px;
+	width: 1100;
+	background: black;
+	margin: 0 auto;
+}
+.container {
+	display: flex;	
+	width: 1100px;
+	margin: 0 auto;
+}
+.conteudo{
+	height: 400px;
+	width: 800px;
+	background: purple;
+}
+.menu-lateral{
+	width: 300px;
+	height: 400px;
+	background: orange;
+
+}
+footer {
+	height: 100px;
+	width: 1060px;
+	background: blue;
+	margin: 0 auto;
+	padding: 40px 20px;
+}
